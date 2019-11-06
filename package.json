@@ -1,0 +1,19 @@
+{
+  "name": "student_presence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexfor5/student_presence.git"
+  },
+  "author": "Nicolás Quezada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexfor5/student_presence/issues"
+  },
+  "homepage": "https://github.com/nexfor5/student_presence#readme"
+}
