@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nexfor5/student_presence/issues"
   },
-  "homepage": "https://github.com/nexfor5/student_presence#readme"
+  "homepage": "https://github.com/nexfor5/student_presence#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^24.9.0"
+  }
 }
